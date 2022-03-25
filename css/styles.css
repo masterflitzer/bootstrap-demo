@@ -1,0 +1,21 @@
+h2,
+h3 {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+.colspan-full {
+    text-align: center;
+}
+
+.table > :not(:first-child) {
+    border-top: none;
+}
+
+.form-label {
+    margin-top: 0.5rem;
+}
